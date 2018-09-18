@@ -1,0 +1,6 @@
+html_document:
+  theme: cosmo
+  df_print: paged
+  toc: true
+  toc_float: true
+  number_sections: true
