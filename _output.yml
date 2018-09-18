@@ -2,5 +2,7 @@ html_document:
   theme: cosmo
   df_print: paged
   toc: true
-  toc_float: true
+  toc_float:
+    collapsed: false
+    smooth_scroll: false
   number_sections: true
