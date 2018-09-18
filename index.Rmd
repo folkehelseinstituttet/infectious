@@ -15,15 +15,15 @@ Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute
 
 ## Upcoming Courses
 
-**Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](which_stats_method/index.html)
+**Wednesday or Thursday, 17 or 18 October 2018**: Basic linear regression (Beatriz.ValcarcelSalamanca@fhi.no)
 
-**September 2018:** Basic logistic regression (Ida)
+**2019:** Advanced Logistic Regression (Ida.Laake@fhi.no)
 
-**November 2018:** Introduction to Health Economics (Torbjørn + Div Health Services)
+**2019:** Introduction to Health Economics (Torbjorn.Wisloff@fhi.no)
 
-**December 2018:** Outcome measures (Torbjørn + someone)
+**2019:** Outcome measures (Torbjorn.Wisloff@fhi.no + Shilpa.Rao@fhi.no)
 
-**2019:** R
+**Every Friday, 2019:** [A series of short R modules](short_r_modules/index.html) (RichardAubrey.White@fhi.no)
 
 ## Course Resources
 
@@ -33,4 +33,8 @@ Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute
 
 [Longitudinal analysis](longitudinal_analysis/index.html)
 
-[A series of short R modules](r/index.html)
+[A series of short R modules (in progress)](short_r_modules/index.html)
+
+## Finished courses
+
+**Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](which_stats_method/index.html)

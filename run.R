@@ -1,6 +1,6 @@
-setwd("/git/fhi-infectious.github.io")
+setwd("/git/infectious")
 
 files <- list.files(".",pattern = ".Rmd$")
 for(f in files){
-  rmarkdown::render(f,output_dir = ".")
+  rmarkdown::render(f,output_dir = "docs")
 }
