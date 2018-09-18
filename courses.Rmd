@@ -15,6 +15,10 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 
 **Wednesday or Thursday, 17 or 18 October 2018**: Basic linear regression (Beatriz.ValcarcelSalamanca@fhi.no)
 
+## Planned Courses
+
+**2018:** [Best practices for file organization (in progress)](/best_practices_files/index.html) (RichardAubrey.White@fhi.no)
+
 **2019:** Advanced Logistic Regression (Ida.Laake@fhi.no)
 
 **2019:** Introduction to Health Economics (Torbjorn.Wisloff@fhi.no)
@@ -26,8 +30,6 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 ## Course Resources
 
 [Which statistical method should I use?](/which_stats_method/index.html)
-
-[Best practices for file organization (in progress)](/best_practices_files/index.html)
 
 [Longitudinal analysis](/longitudinal_analysis/index.html)
 
