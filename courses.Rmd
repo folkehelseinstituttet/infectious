@@ -7,11 +7,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-## About us
+## Registration
 
-Avdeling for infejskonsepidemiologi og modellering, Folkehelseinstituttet
-
-Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute of Public Health
+Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_layouts/15/WopiFrame.aspx?sourcedoc={91898DA5-F6FA-4578-8C57-7F516DCF032A}&file=Kurs.xlsx&action=default).
 
 ## Upcoming Courses
 
