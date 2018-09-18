@@ -10,6 +10,12 @@ Avdeling for infejskonsepidemiologi og modellering, Folkehelseinstituttet
 
 Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute of Public Health
 
+# News
+
+Due to the reconstruction happening in L8 towards the end of 2018, we will reduce our course offerings and instead offer them in 2019.
+
+In 2019 we expect to launch a series of short R modules run for 1 hour every Friday, alongside other courses.
+
 # [Courses and resources](courses.html)
 
 We offer a number of courses and resources (e.g. documents outlining best practices).

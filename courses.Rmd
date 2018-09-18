@@ -69,7 +69,7 @@ The participants will need to bring their own laptop with Stata installed and ha
 
 ## [A series of short R modules](/short_r_modules/index.html)
 
-**Date:** 2019
+**Date:** 2019. Run for 1 hour every Friday.
 
 **Teacher:** RichardAubrey.White@fhi.no
 
