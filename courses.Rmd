@@ -1,0 +1,40 @@
+---
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    df_print: paged
+editor_options: 
+  chunk_output_type: console
+---
+
+## About us
+
+Avdeling for infejskonsepidemiologi og modellering, Folkehelseinstituttet
+
+Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute of Public Health
+
+## Upcoming Courses
+
+**Wednesday or Thursday, 17 or 18 October 2018**: Basic linear regression (Beatriz.ValcarcelSalamanca@fhi.no)
+
+**2019:** Advanced Logistic Regression (Ida.Laake@fhi.no)
+
+**2019:** Introduction to Health Economics (Torbjorn.Wisloff@fhi.no)
+
+**2019:** Outcome measures (Torbjorn.Wisloff@fhi.no + Shilpa.Rao@fhi.no)
+
+**Every Friday, 2019:** [A series of short R modules](/short_r_modules/index.html) (RichardAubrey.White@fhi.no)
+
+## Course Resources
+
+[Which statistical method should I use?](/which_stats_method/index.html)
+
+[Best practices for file organization (in progress)](/best_practices_files/index.html)
+
+[Longitudinal analysis](/longitudinal_analysis/index.html)
+
+[A series of short R modules (in progress)](/short_r_modules/index.html)
+
+## Finished courses
+
+**Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](/which_stats_method/index.html)

@@ -13,28 +13,12 @@ Avdeling for infejskonsepidemiologi og modellering, Folkehelseinstituttet
 
 Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute of Public Health
 
-## Upcoming Courses
+## [Courses and resources](/courses.html)
 
-**Wednesday or Thursday, 17 or 18 October 2018**: Basic linear regression (Beatriz.ValcarcelSalamanca@fhi.no)
+We offer a number of courses and resources (e.g. documents outlining best practices). More information is available [here](/courses.html)
 
-**2019:** Advanced Logistic Regression (Ida.Laake@fhi.no)
+## [Veiledningstjenesten/Advisory service](/advice.html)
 
-**2019:** Introduction to Health Economics (Torbjorn.Wisloff@fhi.no)
+Vi tilbyr hjelp både til korte prosjekter og til langtidsprosjekter. Vi tilbyr hjelp, støtte og praktisk veiledning i forhold til valg og bruk av metoder. Vår mulighet for å gjennomføre analyser og delta i større samarbeidsprosjekter er begrenset. Du kan lese mer om dette tjeneste [her](/advice.html).
 
-**2019:** Outcome measures (Torbjorn.Wisloff@fhi.no + Shilpa.Rao@fhi.no)
-
-**Every Friday, 2019:** [A series of short R modules](/short_r_modules/index.html) (RichardAubrey.White@fhi.no)
-
-## Course Resources
-
-[Which statistical method should I use?](/which_stats_method/index.html)
-
-[Best practices for file organization (in progress)](/best_practices_files/index.html)
-
-[Longitudinal analysis](/longitudinal_analysis/index.html)
-
-[A series of short R modules (in progress)](/short_r_modules/index.html)
-
-## Finished courses
-
-**Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](/which_stats_method/index.html)
+We provide assistance both for short- and long-term projects. We help with advice, support and practical help in relation to choice and use of methods. Our ability to conduct analyses and participate in major collaborative projects is limited. You can read more about this service [here](/advice.html).
