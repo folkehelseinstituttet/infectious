@@ -7,6 +7,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+## Veiledningstjenesten 
+
 Avdeling for infeksjonsepidemiologi og modellering (SMHB) lanserer ny online portal for veiledningstjeneste. Tjenesten er åpen for alle ansatte i Område 2.
 
 Vi veileder deg som ønsker metode- og forskningsstøtte innenfor:
@@ -22,9 +24,11 @@ Vi tilbyr hjelp både til korte prosjekter og til langtidsprosjekter. Vi tilbyr 
 
 For bestilling av veiledningstjeneste, ber vi deg om å fylle ut et elektronisk kontaktskjema. Henvendelser behandles i den rekkefølgen de kommer inn. Vi tar kontakt med deg og gjør avtale om tid for et første møte (normalt avsettes 45 minutter). Deretter kan vi ha oppfølgingsmøter avhengig av dine behov.
 
-For å bestille veiledningstjenesten, klikk [her](https://docs.google.com/forms/d/e/1FAIpQLSdiTdreXTCXCWelyBBZ2Cb01Qk5KP203SPi3OFjJPnorMXOcg/viewform?embedded=true) 
+[For å bestille veiledningstjenesten, klikk her](https://docs.google.com/forms/d/e/1FAIpQLSdiTdreXTCXCWelyBBZ2Cb01Qk5KP203SPi3OFjJPnorMXOcg/viewform?embedded=true) 
 
 Velkommen!
+
+## Advisory service
 
 The Department of Infectious Disease Epidemiology and Modelling (SMHB) launches a new online portal for advising service. The service is open to all employees in Division 2. We offer advice on methods and research support within:
 
@@ -39,6 +43,6 @@ We provide assistance both for short- and long-term projects. We help with advic
 
 For ordering the advisory service, we ask you to complete the electronic contact form. Inquiries are processed in the order they arrive. We will contact you and make arrangements to schedule the first meeting (normally 45 minutes). Then we can have follow-up meetings depending on your needs.
 
-For ordering the advisory service, click [her](https://docs.google.com/forms/d/e/1FAIpQLSdiTdreXTCXCWelyBBZ2Cb01Qk5KP203SPi3OFjJPnorMXOcg/viewform?embedded=true) 
+[For ordering the advisory service, click here](https://docs.google.com/forms/d/e/1FAIpQLSdiTdreXTCXCWelyBBZ2Cb01Qk5KP203SPi3OFjJPnorMXOcg/viewform?embedded=true) 
 
 Welcome!
