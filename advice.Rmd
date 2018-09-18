@@ -7,7 +7,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Veiledningstjenesten 
+# Veiledningstjenesten 
 
 Avdeling for infeksjonsepidemiologi og modellering (SMHB) lanserer ny online portal for veiledningstjeneste. Tjenesten er åpen for alle ansatte i Område 2.
 
@@ -28,7 +28,7 @@ For bestilling av veiledningstjeneste, ber vi deg om å fylle ut et elektronisk 
 
 Velkommen!
 
-## Advisory service
+# Advisory service
 
 The Department of Infectious Disease Epidemiology and Modelling (SMHB) launches a new online portal for advising service. The service is open to all employees in Division 2. We offer advice on methods and research support within:
 

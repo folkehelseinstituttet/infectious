@@ -4,22 +4,22 @@ editor_options:
   chunk_output_type: console
 ---
 
-## About us
+# About us
 
 Avdeling for infejskonsepidemiologi og modellering, Folkehelseinstituttet
 
 Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute of Public Health
 
-## [Courses and resources](courses.html)
+# [Courses and resources](courses.html)
 
 We offer a number of courses and resources (e.g. documents outlining best practices).
 
 [More information about the schedule and registration is available here](courses.html)
 
-## [Veiledningstjenesten](advice.html)
+# [Veiledningstjenesten](advice.html)
 
 Vi tilbyr hjelp både til korte prosjekter og til langtidsprosjekter. Vi tilbyr hjelp, støtte og praktisk veiledning i forhold til valg og bruk av metoder. Vår mulighet for å gjennomføre analyser og delta i større samarbeidsprosjekter er begrenset. [Du kan lese mer om dette tjeneste her](advice.html).
 
-## [Advisory service](advice.html)
+# [Advisory service](advice.html)
 
 We provide assistance both for short- and long-term projects. We help with advice, support and practical help in relation to choice and use of methods. Our ability to conduct analyses and participate in major collaborative projects is limited. [You can read more about this service here](advice.html).
