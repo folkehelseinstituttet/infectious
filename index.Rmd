@@ -23,18 +23,18 @@ Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute
 
 **2019:** Outcome measures (Torbjorn.Wisloff@fhi.no + Shilpa.Rao@fhi.no)
 
-**Every Friday, 2019:** [A series of short R modules](short_r_modules/index.html) (RichardAubrey.White@fhi.no)
+**Every Friday, 2019:** [A series of short R modules](/short_r_modules/index.html) (RichardAubrey.White@fhi.no)
 
 ## Course Resources
 
-[Which statistical method should I use?](which_stats_method/index.html)
+[Which statistical method should I use?](/which_stats_method/index.html)
 
-[Best practices for file organization (in progress)](best_practices_files/index.html)
+[Best practices for file organization (in progress)](/best_practices_files/index.html)
 
-[Longitudinal analysis](longitudinal_analysis/index.html)
+[Longitudinal analysis](/longitudinal_analysis/index.html)
 
-[A series of short R modules (in progress)](short_r_modules/index.html)
+[A series of short R modules (in progress)](/short_r_modules/index.html)
 
 ## Finished courses
 
-**Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](which_stats_method/index.html)
+**Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](/which_stats_method/index.html)
