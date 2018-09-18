@@ -15,7 +15,9 @@ Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute
 
 ## [Courses and resources](courses.html)
 
-We offer a number of courses and resources (e.g. documents outlining best practices). More information about the schedule and registration is available [here](courses.html)
+We offer a number of courses and resources (e.g. documents outlining best practices).
+
+[More information about the schedule and registration is available here](courses.html)
 
 ## [Veiledningstjenesten](advice.html)
 

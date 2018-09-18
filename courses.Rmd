@@ -13,7 +13,36 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 
 ## Upcoming Courses
 
-**Wednesday or Thursday, 17 or 18 October 2018**: Basic linear regression (Beatriz.ValcarcelSalamanca@fhi.no)
+### Wednesday or Thursday, 17 or 18 October 2018
+
+**Course:** Basic linear regression
+
+**Teacher:** Beatriz.ValcarcelSalamanca@fhi.no
+
+**Maximum number of participants:** 25 
+
+**Location:** Main auditorium, L8, Lindern Campus, Folkehelseinstittutet, Oslo
+
+**Language:** English
+
+**Description:**
+
+Linear regression is an important and widely used statistical tool for modelling relationships among variables. This introductory-level course will provide an overview of the general concepts and basic procedures behind simple and multiple linear regression analysis. The focus of the course will be on the practical application of linear regression methods with the main objective of making participants able to apply these methods in their own work. Computer-based exercises using the software Stata will be used throughout the course. The participants will need to bring their own laptop with Stata installed.
+
+Topics coved during the course include: 
+
+- General concepts behind linear regression models
+- How to fit (simple and multiple) linear regression models in Stata (using Graphical User Interface and Stata commands)
+- Interpretation of the models output 
+- Assumptions underlie the models, 
+- Ways of testing whether your data meet the model assumptions and what can be done if the assumptions are not met
+- Reporting the output of linear regression analysis
+
+**Prerequisites:**
+Basic knowledge of Stata is expected. Basic understanding of common statistical tests and concepts (such as p-values and confidence intervals).
+
+**Additional information:**
+The participants will need to bring their own laptop with Stata installed and have completed a self-taught STATA course in the weeks prior to the course.
 
 ## Planned Courses
 
