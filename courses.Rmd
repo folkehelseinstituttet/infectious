@@ -84,3 +84,8 @@ The participants will need to bring their own laptop with Stata installed and ha
 # Finished courses
 
 **Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](/which_stats_method/index.html)
+
+**Friday 1 June 2018, 0930-1500:** [Longitudinal analysis](/longitudinal_analysis/index.html)
+
+**Monday 28 April 2018, 0930-1500:** [Longitudinal analysis](/longitudinal_analysis/index.html)
+
