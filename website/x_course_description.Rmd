@@ -1,0 +1,91 @@
+---
+date: "`r Sys.Date()`"
+editor_options: 
+  chunk_output_type: console
+---
+
+# Registration
+
+Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_layouts/15/WopiFrame.aspx?sourcedoc={91898DA5-F6FA-4578-8C57-7F516DCF032A}&file=Kurs.xlsx&action=default).
+
+# Upcoming Courses
+
+## Basic linear regression
+
+**Date:** Thursday, 18 October 2018
+
+**Teacher:** Beatriz.ValcarcelSalamanca@fhi.no
+
+**Maximum number of participants:** 25 
+
+**Location:** Rom OSL L8 Gml. Hovedbygg 3 3364, Lindern Campus, Folkehelseinstittutet, Oslo
+
+**Language:** English
+
+**Description:**
+
+Linear regression is an important and widely used statistical tool for modelling relationships among variables. This introductory-level course will provide an overview of the general concepts and basic procedures behind simple and multiple linear regression analysis. The focus of the course will be on the practical application of linear regression methods with the main objective of making participants able to apply these methods in their own work. Computer-based exercises using the software Stata will be used throughout the course. The participants will need to bring their own laptop with Stata installed.
+
+Topics coved during the course include: 
+
+- General concepts behind linear regression models
+- How to fit (simple and multiple) linear regression models in Stata (using Graphical User Interface and Stata commands)
+- Interpretation of the models output 
+- Assumptions underlie the models, 
+- Ways of testing whether your data meet the model assumptions and what can be done if the assumptions are not met
+- Reporting the output of linear regression analysis
+
+**Prerequisites:**
+Basic knowledge of Stata is expected. Basic understanding of common statistical tests and concepts (such as p-values and confidence intervals).
+
+**Additional information:**
+The participants will need to bring their own laptop with Stata installed and have completed a self-taught STATA course in the weeks prior to the course.
+
+## [Best practices for file organization (in progress)](/best_practices_files/index.html)
+
+**Date:** 2018
+
+**Teacher:** RichardAubrey.White@fhi.no
+
+\hline
+
+## Advanced Logistic Regression
+
+**Date:** 2019
+
+**Teacher:** Ida.Laake@fhi.no
+
+## Introduction to Health Economics
+
+**Date:** 2019
+
+**Teacher:** Torbjorn.Wisloff@fhi.no
+
+## Outcome measures
+
+**Date:** 2019
+
+**Teacher:** Torbjorn.Wisloff@fhi.no + Shilpa.Rao@fhi.no
+
+## [A series of short R modules](/short_r_modules/index.html)
+
+**Date:** 2019. Run for 1 hour every Friday.
+
+**Teacher:** RichardAubrey.White@fhi.no
+
+# Course Resources
+
+[Which statistical method should I use?](/which_stats_method/index.html)
+
+[Longitudinal analysis](/longitudinal_analysis/index.html)
+
+[A series of short R modules (in progress)](/short_r_modules/index.html)
+
+# Finished courses
+
+**Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](/which_stats_method/index.html)
+
+**Friday 1 June 2018, 0930-1500:** [Longitudinal analysis](/longitudinal_analysis/index.html)
+
+**Monday 28 April 2018, 0930-1500:** [Longitudinal analysis](/longitudinal_analysis/index.html)
+
