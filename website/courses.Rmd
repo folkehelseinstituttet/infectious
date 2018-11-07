@@ -38,17 +38,17 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 
 ## [A series of short R modules](/short_r_modules/index.html)
 
-**Introduction to R** (Gry)  
+**Introduction to R** (Gry) - 17/01/2019  
   
-**Introduction to variables/loading of data** (Bea)  
+**Introduction to variables/loading of data** (Bea) - 24/01/2019  
   
-**If statements** (Richard)  
+**If statements** (Richard) - 31/01/2019  
   
-**Loops** (Bea)  
+**Loops** (Bea) - 07/02/2019  
   
-**Functions I** (Richard)  
+**Functions I** (Richard) - 14/02/2019  
   
-**Functions II** (Richard)  
+**Functions II** (Richard) - 21/02/2019    
   
 **Date:** 2019. Run for 1 hour every Friday.
 
