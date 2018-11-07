@@ -38,12 +38,18 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 
 ## [A series of short R modules](/short_r_modules/index.html)
 
-**Introduction to R** (Gry)
-**Introduction to variables/loading of data** (Bea)
-**If statements** (Richard)
-**Loops** (Bea)
-**Functions I** (Richard)
-**Functions II** (Richard)
+**Introduction to R** (Gry)  
+  
+**Introduction to variables/loading of data** (Bea)  
+  
+**If statements** (Richard)  
+  
+**Loops** (Bea)  
+  
+**Functions I** (Richard)  
+  
+**Functions II** (Richard)  
+  
 **Date:** 2019. Run for 1 hour every Friday.
 
 **Teacher:** RichardAubrey.White@fhi.no
