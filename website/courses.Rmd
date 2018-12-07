@@ -50,25 +50,21 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 
 **Logistic Regression** (Ida) - 14/03/2019, 1200-1300
 
-**??Merging data/reshaping long+wide** (?Bea?Gry?) - 21/03/2019, 1200-1300
+**??Linear Regression** (??) - 21/03/2019, 1200-1300
 
-**??Graphs (ggplot)** (?Richard?) - 28/03/2019, 1200-1300
+**??Data.table** (??) - 28/03/2019, 1200-1300
 
-**??Linear Regression** (?Bea?Gry?) - 21/03/2019, 1200-1300
-
-**??Data.table** (?Richard?) - 28/03/2019, 1200-1300
-
-**??Survival analysis** (??) - 04/04/2019, 1200-1300
+**??Merging data/reshaping long+wide** (?Bea?Gry?) - 04/04/2019, 1200-1300
 
 **EASTER BREAK** - 11/04/2019, 1200-1300
 
 **EASTER BREAK** - 18/04/2019
 
-**??Mixed Models (lme4)** (??) - 25/04/2019, 1200-1300
+**??Graphs (ggplot)** (??) - 25/04/2019, 1200-1300
 
-**??** (??) - 02/05/2019, 1200-1300
+**??Mixed Models (lme4)** (??) - 02/05/2019, 1200-1300
 
-**??** (??) - 09/05/2019, 1200-1300
+**??Survival analysis** (??) - 09/05/2019, 1200-1300
 
 **17TH OF MAY BREAK** - 16/05/2019, 1200-1300
 
