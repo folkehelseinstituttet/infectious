@@ -54,7 +54,7 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 
 **??Data.table** (??) - 28/03/2019, 1200-1300
 
-**??Merging data/reshaping long+wide** (?Bea?Gry?) - 04/04/2019, 1200-1300
+**??Merging data/reshaping long+wide** (??) - 04/04/2019, 1200-1300
 
 **EASTER BREAK** - 11/04/2019, 1200-1300
 
