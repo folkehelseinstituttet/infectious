@@ -48,9 +48,9 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
   
 **Functions II** (Richard) - 07/03/2019, 1200-1300
 
-**Logistic Regression** (Ida) - 14/03/2019, 1200-1300
+**Linear Regression** (Ida) - 14/03/2019, 1200-1300
 
-**??Linear Regression** (??) - 21/03/2019, 1200-1300
+**Logistic Regression** (Ida) - 21/03/2019, 1200-1300
 
 **??Data.table** (??) - 28/03/2019, 1200-1300
 
