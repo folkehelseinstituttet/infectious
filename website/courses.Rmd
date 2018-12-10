@@ -36,41 +36,45 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 
 ## [A series of short R modules](/short_r_modules/index.html)
 
-**Introduction to R** (Gry) - 31/01/2019, 1200-1300
+**Introduction to R/RStudio** (Gry) - 31/01/2019, 1200-1300
   
-**Introduction to variables/loading of data** (Bea) - 07/02/2019, 1200-1300
+**Introduction to variable types/loading of data** (Bea) - 07/02/2019, 1200-1300
   
-**If statements** (Richard) - 14/02/2019, 1200-1300
+**If statements/data selection/NA** (Richard) - 14/02/2019, 1200-1300
   
-**Loops** (Bea) - 21/02/2019, 1200-1300
+**WINTER BREAK** - 21/02/2019, 1200-1300
   
-**Functions I** (Richard) - 28/02/2019, 1200-1300
+**Loops** (Bea) - 28/02/2019, 1200-1300
   
-**Functions II** (Richard) - 07/03/2019, 1200-1300
+**Functions** (Richard) - 07/03/2019, 1200-1300
 
 **Linear Regression** (Ida) - 14/03/2019, 1200-1300
 
 **Logistic Regression** (Ida) - 21/03/2019, 1200-1300
 
-**??Data.table** (??) - 28/03/2019, 1200-1300
+**Data.table/Merging data** (Richard) - 28/03/2019, 1200-1300
 
-**??Merging data/reshaping long+wide** (??) - 04/04/2019, 1200-1300
+**Missing data** (Guido) - 04/04/2019, 1200-1300
 
 **EASTER BREAK** - 11/04/2019, 1200-1300
 
 **EASTER BREAK** - 18/04/2019
 
-**??Graphs (ggplot)** (??) - 25/04/2019, 1200-1300
+**Graphs (ggplot)** (William - 25/04/2019, 1200-1300
 
-**??Mixed Models (lme4)** (??) - 02/05/2019, 1200-1300
+**Mixed Models (lme4)** (Bea) - 02/05/2019, 1200-1300
 
-**??Survival analysis** (??) - 09/05/2019, 1200-1300
+**Survival analysis** (Katrine) - 09/05/2019, 1200-1300
 
 **17TH OF MAY BREAK** - 16/05/2019, 1200-1300
 
-**??** (??) - 23/05/2019, 1200-1300
+**Marginal effects** (Guido) - 23/05/2019, 1200-1300
 
-**??** (??) - 30/05/2019, 1200-1300
+XXXXX**??reshaping long+wide** (??) - 30/05/2019, 1200-1300
+
+XXXXX**??Self-selection/loss to followup** (??) - 30/05/2019, 1200-1300
+
+
   
 **Date:** 2019. Run for 1 hour every Thursday, 1200-1300
 
@@ -80,6 +84,9 @@ Register using this [internal OPUS link](http://samarbeid.fhi.no/sites/1294/_lay
 - Beatriz.ValcarcelSalamanca@fhi.no
 - GryMarysol.Groneng@fhi.no
 - Ida.Laake@fhi.no
+- KatrineDamgaard.Skyrud@fhi.no (survival/data.table/merging)
+- WilliamRobertPaul.Denault@fhi.no (ggplot2)
+- Guido.Biele@fhi.no (glm, mixed models, missing data, self-selection loss to followup, marginal effects)
 
 ## [Best practices for file organization (written document)](/best_practices_files/index.html)
 
